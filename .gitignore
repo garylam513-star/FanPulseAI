@@ -1,0 +1,18 @@
+# Local secrets & credentials
+.env
+gcp_key.json
+*.json
+!package.json
+
+# Python & virtual environments
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary test scripts & OS files
+test_*.py
+.DS_Store
+Thumbs.db

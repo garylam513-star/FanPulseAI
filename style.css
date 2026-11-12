@@ -1,0 +1,55 @@
+/* Custom application branding and layout overrides */
+.stApp {
+    background-color: #0F0F12;
+}
+
+/* Global Typography tweaks */
+h1, h2, h3, h4, p, span {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+/* Mobile Simulation Frame Styling */
+.fan-mobile-container {
+    background-color: #16161C;
+    border: 3px solid #2D2D3A;
+    border-radius: 24px;
+    padding: 20px;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+}
+
+/* Streaming Status Banner Badges */
+.status-banner-live {
+    background: linear-gradient(90deg, #FF0043 0%, #FF4B72 100%);
+    color: #FFFFFF;
+    padding: 8px 14px;
+    border-radius: 8px;
+    font-weight: 700;
+    text-align: center;
+    font-size: 0.9rem;
+    letter-spacing: 0.5px;
+    margin-bottom: 12px;
+    box-shadow: 0 4px 12px rgba(255, 0, 67, 0.3);
+}
+
+.status-banner-offline {
+    background: linear-gradient(90deg, #3A3A4A 0%, #4E4E63 100%);
+    color: #E2E2E8;
+    padding: 8px 14px;
+    border-radius: 8px;
+    font-weight: 600;
+    text-align: center;
+    font-size: 0.9rem;
+    margin-bottom: 12px;
+}
+
+/* Interaction Button Enhancements */
+.stButton>button {
+    border-radius: 8px !important;
+    font-weight: 600 !important;
+    transition: all 0.2s ease-in-out !important;
+}
+
+.stButton>button:hover {
+    transform: translateY(-1px);
+}
