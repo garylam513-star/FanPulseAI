@@ -96,4 +96,4 @@ Open `http://localhost:8501` in your browser.
 ```
 ## Test Cases
 Please refer to the below PDF for test cases and layout
-[Link Text](TestCase.pdf)
+[Link Text](TestCases.pdf)
