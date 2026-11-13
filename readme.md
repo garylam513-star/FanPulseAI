@@ -7,6 +7,8 @@ It showcases a side-by-side **Fan Mobile Interface** and **Influencer Live Studi
 ---
 ![App Screenshot](fan1.png)
 ![App Screenshot](fan2.png)
+![App Screenshot](fan3.png)
+
 
 
 ## ✨ Key Features
@@ -92,3 +94,6 @@ Open `http://localhost:8501` in your browser.
 ├── .env                # Local PayPal credentials (ignored by Git)
 └── gcp_key.json        # Local GCP Service Account JSON key (ignored by Git)
 ```
+## Test Cases
+Please refer to the below PDF for test cases and layout
+[Link Text](TestCase.pdf)
