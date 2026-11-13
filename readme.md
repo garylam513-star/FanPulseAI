@@ -5,6 +5,9 @@
 It showcases a side-by-side **Fan Mobile Interface** and **Influencer Live Studio**, enabling real-time micropayments, merchandise purchases, automated AI cheerleading, and private post-purchase shipping logistics.
 
 ---
+![App Screenshot](fan1.png)
+![App Screenshot](fan2.png)
+
 
 ## ✨ Key Features
 
